@@ -11,6 +11,6 @@ public class LoginPage {
 	
 	
 	public void logout() {
-		System.out.println("Logout");
+		System.out.println("Logout verified");
 	}
 }
