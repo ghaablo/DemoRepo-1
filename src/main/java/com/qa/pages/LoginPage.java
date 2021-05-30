@@ -8,4 +8,9 @@ public class LoginPage {
 	public void loginSet() {
 		System.out.println("Login Set");
 	}
+	
+	
+	public void logout() {
+		System.out.println("Logout verified");
+	}
 }
